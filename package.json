@@ -1,0 +1,14 @@
+{
+  "name": "nng-copy",
+  "version": "1.0.0",
+  "description": "NNG Copy website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recuresive"
+  },
+  "author": "Gabor Nagy",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
